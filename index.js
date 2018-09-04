@@ -55,7 +55,7 @@ const ajaxCall = ( isTrue ) => {
       ]
       return people
     }
-      )
+  )
 }
 
 const reduxThunk = () => (dispatch) => {
